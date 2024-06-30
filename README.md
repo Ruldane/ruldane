@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laurent Nizzoli</h1>
 <h3 align="center">Versatile full-stack developer specializing in React.js and Node.js. Passionate about crafting efficient, user-friendly applications and solving complex challenges. Experienced in frontend, backend, and DevOps. Committed to delivering innovative, high-impact solutions while continuously expanding my skills.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruldane" alt="ruldane" /></a> </p>
-
 - 🌱 I’m currently learning Microservices **RabbitMQ, React, Node JS, Express JS with Typescript**
 
 - 🤝 I am generating a jobber app using Microservices [Jobber](https://github.com/Ruldane/jobber-microservices)
